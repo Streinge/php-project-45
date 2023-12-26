@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "study project \"Brain Games\"",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OlegSofonov",
+            "email": "olesof@mail.ru"
+        }
+    ],
+    "require": {}
+}
