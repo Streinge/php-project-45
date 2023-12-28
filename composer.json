@@ -12,5 +12,10 @@
             "email": "olesof@mail.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+      ],
+    "license": "MIT"
+
 }
