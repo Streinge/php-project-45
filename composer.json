@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
-        }
+        },
+        "files": [
+            "src/wp-cli/php-cli-tools/lib/cli/cli.php"
+        ]
     },
     "authors": [
         {
