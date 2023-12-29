@@ -1,13 +1,9 @@
 {
     "name": "hexlet/code",
-    "description": "study project \"Brain Games\"",
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
-        },
-        "files": [
-            "src/wp-cli/php-cli-tools/lib/cli/cli.php"
-        ]
+        }
     },
     "authors": [
         {
@@ -15,10 +11,5 @@
             "email": "olesof@mail.ru"
         }
     ],
-    "require": {},
-    "bin": [
-        "bin/brain-games"
-      ],
-    "license": "MIT"
-
+    "require": {}
 }
