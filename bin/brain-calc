@@ -12,7 +12,7 @@ if (file_exists($autoloadPath1)) {
 }
 
 use function BrainGames\Cli\hello;
-use function BrainGames\Cli\isEven;
+use function BrainGames\Cli\mathExamples;
 
 $name = hello();
-isEven($name);
+mathExamples($name);

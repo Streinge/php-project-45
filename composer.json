@@ -7,7 +7,8 @@
         "files": [
             "src/Cli.php",
             "src/Engine.php",
-            "src/Games/isEven.php"
+            "src/Games/isEven.php",
+            "src/Games/operations.php"
         ]
     },
     "authors": [
@@ -24,7 +25,8 @@
     },
     "bin": [
         "bin/brain-games",
-        "bin/brain-even"
+        "bin/brain-even",
+        "bin/brain-calc"
       ],
       "description": "Study project",
       "license": "proprietary"
