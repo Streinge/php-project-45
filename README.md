@@ -11,3 +11,6 @@ https://asciinema.org/a/lC2Q3nALAK11PDQxK6PfgsOVl
 
 ### Askinema of the implementation of the game "GCD"
 https://asciinema.org/a/pU7YTKZmT23rVXjw9RxkfENbS
+
+### Askinema of the implementation of the game "Arithmetic progression"
+https://asciinema.org/a/GvpM621pYTDtwPS21osJEHCNs
