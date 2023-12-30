@@ -5,3 +5,6 @@
 
 ### Askinema with an example of installing make install dependencies, launching the make brain-even game, winning and losing the player.
 https://asciinema.org/a/kqSOefLes92SSiRvvpzHThUNS
+
+### Askinema of the implementation of the game "Calculator"
+https://asciinema.org/a/lC2Q3nALAK11PDQxK6PfgsOVl
