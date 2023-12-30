@@ -8,3 +8,6 @@ https://asciinema.org/a/kqSOefLes92SSiRvvpzHThUNS
 
 ### Askinema of the implementation of the game "Calculator"
 https://asciinema.org/a/lC2Q3nALAK11PDQxK6PfgsOVl
+
+### Askinema of the implementation of the game "GCD"
+https://asciinema.org/a/pU7YTKZmT23rVXjw9RxkfENbS
