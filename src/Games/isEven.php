@@ -4,7 +4,7 @@ namespace BrainGames\Cli;
 
 use function BrainGames\Cli\conversation;
 
-function even($name)
+function isEven($name)
 {
     $question = 'Answer "yes" if the number is even, otherwise answer "no".';
     $minValue = 0;
@@ -13,7 +13,7 @@ function even($name)
     $evenTest = [];
     for ($i = 1; $i <= $maxAttempts; $i++) {
         $number = random_int($minValue, $maxValue);
-        $rightAnswer = ($number % 2) ? 'yes' : 'no';
+        $rightAnswer = ($number % 2) ? 'no' : 'yes';
         $evenTest[] = [$number, $rightAnswer];
     }
     conversation($name, $question, $evenTest);

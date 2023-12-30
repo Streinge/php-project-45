@@ -15,7 +15,7 @@ function conversation(string $name, string $question, array $values)
             line('Correct!');
         } else {
             line("'$answer' is wrong answer ;(. Correct answer was '$val[1]'. \nLet's try again, $name!");
-            break;
+            return;
         }
     }
     line("Congratulations, $name!");
