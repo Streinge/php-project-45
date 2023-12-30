@@ -5,7 +5,9 @@
             "Hexlet\\Code\\": "src/"
         },
         "files": [
-            "src/Cli.php"
+            "src/Cli.php",
+            "src/Engine.php",
+            "src/Games/IsEven.php"
         ]
     },
     "authors": [
@@ -16,6 +18,14 @@
     ],
     "require": {
         "wp-cli/php-cli-tools": "^0.11.22"
-    }
-
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.8"
+    },
+    "bin": [
+        "bin/brain-games",
+        "bin/brain-even"
+      ],
+      "description": "Study project",
+      "license": "proprietary"
 }
