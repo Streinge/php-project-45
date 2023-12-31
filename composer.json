@@ -10,7 +10,8 @@
             "src/Games/isEven.php",
             "src/Games/operations.php",
             "src/Games/calculatorGcd.php",
-            "src/Games/progression.php"
+            "src/Games/progression.php",
+            "src/Games/isPrime.php"
         ]
     },
     "authors": [
@@ -30,7 +31,8 @@
         "bin/brain-even",
         "bin/brain-calc",
         "bin/brain-gcd",
-        "bin/brain-progression"
+        "bin/brain-progression",
+        "bin/brain-prime"
       ],
       "description": "Study project",
       "license": "proprietary"
