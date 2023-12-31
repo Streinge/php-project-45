@@ -14,7 +14,7 @@ function isPrime(int $number): bool
     return true;
 }
 
-function prime($name)
+function prime(string $name)
 {
     $question = 'Answer "yes" if given number is prime. Otherwise answer "no".';
     $minValue = 2;

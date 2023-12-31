@@ -6,6 +6,7 @@ use function BrainGames\Cli\conversation;
 
 function operation(int $operand1, int $operand2, string $operator): int
 {
+    $result = null;
     switch ($operator) {
         case '+':
             $result = $operand1 + $operand2;
@@ -19,7 +20,7 @@ function operation(int $operand1, int $operand2, string $operator): int
     return $result;
 }
 
-function mathExamples($name)
+function mathExamples(string $name)
 {
     $question = 'What is the result of the expression?';
     $minValue = 0;

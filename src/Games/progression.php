@@ -18,7 +18,7 @@ function missedProgression(array $elements, int $index): string
     return $result;
 }
 
-function findProgression($name)
+function findProgression(string $name)
 {
     $question = 'What number is missing in the progression?';
     $minValue = 1;

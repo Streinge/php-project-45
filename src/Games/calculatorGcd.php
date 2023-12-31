@@ -19,7 +19,7 @@ function calculateGcd(int $operand1, int $operand2): int
     return $operand1 + $operand2;
 }
 
-function findGcd($name)
+function findGcd(string $name)
 {
     $question = 'Find the greatest common divisor of given numbers.';
     $minValue = 1;
