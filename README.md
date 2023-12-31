@@ -18,7 +18,7 @@
 
 ```bash
 git clone https://github.com/Streinge/php-project-45.git
-cd php-package
+cd php-project-45
 make install
 ```
 
