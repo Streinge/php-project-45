@@ -14,3 +14,6 @@ https://asciinema.org/a/pU7YTKZmT23rVXjw9RxkfENbS
 
 ### Askinema of the implementation of the game "Arithmetic progression"
 https://asciinema.org/a/GvpM621pYTDtwPS21osJEHCNs
+
+### Askinema of the implementation of the game "Is it a prime number?"
+https://asciinema.org/a/befzOVc797pfddbLtMLZiVSKh
