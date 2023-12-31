@@ -3,17 +3,33 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a272fb094e2e9602cf0e/maintainability)](https://codeclimate.com/github/Streinge/php-project-45/maintainability)
 
-### Askinema with an example of installing make install dependencies, launching the make brain-even game, winning and losing the player.
-https://asciinema.org/a/kqSOefLes92SSiRvvpzHThUNS
+### About
 
-### Askinema of the implementation of the game "Calculator"
-https://asciinema.org/a/lC2Q3nALAK11PDQxK6PfgsOVl
+* Study project on PHP "Brain Games"
 
-### Askinema of the implementation of the game "GCD"
-https://asciinema.org/a/pU7YTKZmT23rVXjw9RxkfENbS
+## Prerequisites
 
-### Askinema of the implementation of the game "Arithmetic progression"
-https://asciinema.org/a/GvpM621pYTDtwPS21osJEHCNs
+* Linux, Macos, WSL
+* PHP >=8.1.2
+* Make
+* Git
 
-### Askinema of the implementation of the game "Is it a prime number?"
-https://asciinema.org/a/befzOVc797pfddbLtMLZiVSKh
+## Setup
+
+```bash
+git clone https://github.com/Streinge/php-project-45.git
+cd php-package
+make install
+```
+
+### Asciinema recordings
+
+* ### [brain-even](https://asciinema.org/a/kqSOefLes92SSiRvvpzHThUNS)
+
+* ### [brain-calc](https://asciinema.org/a/lC2Q3nALAK11PDQxK6PfgsOVl)
+
+* ### [brain-gcd](https://asciinema.org/a/pU7YTKZmT23rVXjw9RxkfENbS)
+
+* ### [brain-progression](https://asciinema.org/a/GvpM621pYTDtwPS21osJEHCNs)
+
+* ### [brain-prime](https://asciinema.org/a/befzOVc797pfddbLtMLZiVSKh)
